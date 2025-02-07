@@ -12,7 +12,7 @@ Källmaterial till VetenskapsteoriABC.
 | E  |  |  |  | 
 | F  | Frege | Feyerabend |  |
 | G  | Gadamer |  |  |
-| H  | Hume | Heidegger | Haraway |
+| H  | [Hume](shownotes/hume.md) | Heidegger | Haraway |
 | I  |  |  |  |
 | J  |  |  |  |
 | K  | Kuhn | Koyré  |  |
