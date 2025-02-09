@@ -14,7 +14,7 @@ Därefter kommer jag att prata om induktionsproblemet enligt Hume. Alltså att e
 
 Det tredje problemet, som delvis är relaterat till de två tidigare nämnda, är problemet om kausalitet, eller bättre känt som problemet med orsak och verkan. 
 
-När jag sedan har diskuterat de här problemen kommer vi gå vidare med att borra ännu djupare i dem genom att närläsa passager ur Humes kanske mest tillgängliga och omfattande text: An Inquiry concerning human understanding från 1748. Fokus ligger på kapitel 4 som presenterar Humes fork (dis
+När jag sedan har diskuterat de här problemen kommer vi gå vidare med att borra ännu djupare i dem genom att närläsa passager ur Humes kanske mest tillgängliga och omfattande text: An Inquiry Concerning Human Understanding(1) från 1748. 
 
 ## Vetenskapsteoretisk biografi
 
@@ -59,7 +59,9 @@ Detta leder Hume till att konstatera att det som vi kallar för orsak och verkan
 
 ## Närläsning
 
-An Inquiry into Human Understanding publicerades första gången 1748. Den är helt central för de klassiska vetenskapsteoretiska problemen om hur kausalitet är möjlig (eller omöjlig) att nå kunskap om, huruvida relationen mellan det förnuftsmässiga tänkandet (a priori) och den empiriska erfarenheten (a posteriori) ser ut, samt i allmänhet för den skeptiska hållning som präglar många vetenskapsteoretiska perspektiv. Det finns även ett kapitel som handlar om mirakel som i vissa utgåvor censurerades ut ur Inquiry eftersom det kunde uppfattas som kritiskt mot kyrkan och religionen. Mer om det senare. 
+Okej. Hur ser då dessa idéer ut i Humes egna ord?
+
+An Inquiry into Human Understanding (1) publicerades första gången 1748. Den är helt central för de klassiska vetenskapsteoretiska problemen om hur kausalitet är möjlig (eller omöjlig) att nå kunskap om, huruvida relationen mellan det förnuftsmässiga tänkandet (a priori) och den empiriska erfarenheten (a posteriori) ser ut, samt i allmänhet för den skeptiska hållning som präglar många vetenskapsteoretiska perspektiv. Det finns även ett kapitel som handlar om mirakel som i vissa utgåvor censurerades ut ur Inquiry eftersom det kunde uppfattas som kritiskt mot kyrkan och religionen. Mer om det senare. 
 
 Vi börjar med Humes fork som dyker upp i kapitel 4 "Skeptical doubts concerning the operations of the understanding". Här introducerar Hume distinktionen mellan "relations of ideas" och "matters of fact", där det föregående hänvisar till den slutledning som kan göras aprioriskt, alltså enbart genom förnuftsmässigt resonerande. Men, denna kunskapsform är bara sekundär för Hume. I första rummet kommer alltid "fakta", eller "matters of fact" som endast kan nås av erfarenheten, därav kallas hans filosofi för empirism. När det kommer till kausalitet ("cause and effect"), alltså den högsta formen av kunskap om naturlagarna, är det nämligen så att orsaksförhållanden alltid grundar sig i erfarenheten och är helt och hållet otillgänglig för förnuftet. Endast genom att erfara hur vissa händelser leder till andra händelser kan vi skapa en förståelse för orsak och verkan. 
 
@@ -100,15 +102,25 @@ Samma sak gäller här. Vi vet att en eldslåga och värme uppträder samtidgt. 
 
 ## Relevans idag
 
-När Kant fick läsa Hume så väcktes han, som han själv beskriver det, ur en dogmatisk slummer, vilket så småningom ledde till hans kritiska filosofiska projekt. Denna detalj låter ibland som en anekdot som man nästan misstänker är en efterkonstruktion, vilket beror på att många är slarviga med att göra korrekta referenser. För den som vill läsa exakt vad Kant skrev så slår man upp Prolegomena to any future metaphysics som den engelska utgåvan heter så kan man läsa:
+När Kant fick läsa Hume (2) så väcktes han, som han själv beskriver det, ur en dogmatisk slummer, vilket så småningom ledde till hans kritiska filosofiska projekt. Denna detalj låter ibland som en anekdot som man nästan misstänker är en efterkonstruktion, vilket beror på att många är slarviga med att göra korrekta referenser. För den som vill läsa exakt vad Kant skrev så slår man upp Prolegomena to any future metaphysics (3) som den engelska utgåvan heter så kan man läsa:
 
 I freely admit that the remembrance9 of David Hume was the very thing
 that many years ago ﬁrst interrupted my dogmatic slumber and gave a
 completely different direction to my researches in the ﬁeld of speculative
-philosophy.
+philosophy (s. 10).
 
 På vilket sätt väcktes då Kant? Det är egentligen en längre historia. Men i korta drag kan man säga att Humes skepsis mot att vi kan nå kunskap om orsak och verkan a priori --- ja att på ett så pass radikalt sätt begränsa förnuftets möjlighet till säker kunskap som Hume gjorde --- detta är för Kant en skeptisk hållning som har gått för långt. I Kritik av det rena förnuftet, såväl som i Prolegomena till all framtida metafysik, är ett av kärnuppdragen att skapa möjligheten till syntetiska omdömen a priori: alltså möjligheten att skapa ny kunskap om de rena naturlagarna med hjälp av förnuftsmässiga resonemang a priori. Om Kant lyckades med detta eller inte är ett ämne för en annan gång.
 
 Men, Hume får ett stort uppsving under nittonhundratalet som en central referenspunkt för den logiska empirismen och Wienkretsen. I kölvattnet av de enorma vetenskapliga förändringarna som skedde under nittonhundratalet; relativitetsteori, kvantmekanik, genetik, --- paradigmskiften som omkullkastade våra mest grundläggande kategorier som tid, rum, liv, ärftlighet med mera --- så började man alltmer lyfta fram Hume's skeptiska empirism som det enda filosofiska system som stod sig när naturvetenskaperna helt och hållet transformerades i grunden. 
 
 Kanske är det här som Hume står med oss även idag. Som en skeptiker av den allra finaste sorten (vi får verkligen inte blanda ihop upplysningens skeptiker med internettrollen som tror sig vara skeptiker eller för den delen föreningen Vetenskap och Folkbildning som ibland också de kallar sig skeptiker.). Där står Hume och påminner oss om att vi alltid måste vara uppmärksamma även på de mest grundläggande sakerna vi tar för givna om orsak och verkan. Hur har vi kommit fram till att det ena leder till det andra? Granska varje tanke i detalj, varje erfarenhet, och avgör sedan hur säker du egentligen kan vara. 
+
+## Källor
+
+1. Hume, D., & Hendel, C. W. (1957). An inquiry concerning human understanding: With a supplement, an abstract of a treatise of human nature. Liberal Arts Press. https://books.google.se/books?id=nmErAAAAIAAJ
+
+2. Wolff, R. P. (1960). Kant’s Debt to Hume Via Beattie. Journal of the History of Ideas, 21(1), 117–123. https://doi.org/10.2307/2708003
+
+3. Kant, I. (2004). Prolegomena to any future metaphysics that will be able to come forward as science: With selections from the Critique of pure reason (Rev. ed). Cambridge University Press.
+
+
