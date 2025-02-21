@@ -1,3 +1,7 @@
+# Audio links
+* [Archive.org](https://archive.org/details/davidhumeochdenskeptiskaempirismen)
+* [Spotify](https://open.spotify.com/episode/3mT5Sgnm2ktcsLwLDkwK0i?si=8da971a5f8ad45e7) 
+
 ## Intro
 
 Idag ska vi prata om den skotske empiristen och skeptikern David Hume som levde och var verksam under sjuttonhundratalet. Hume tillhör de stora namnen inom upplysninge ns vetenskapsteori och har haft ett inflytande på kunskapsteorin som är jämförbart med Descartes och Kant, Bacon och Newton.
