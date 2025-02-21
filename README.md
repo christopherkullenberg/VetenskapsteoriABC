@@ -1,9 +1,11 @@
 # VetenskapsteoriABC
 Källmaterial till VetenskapsteoriABC.
 
-## Alfabetisk lista
+## Alfabetisk lista 
 
-| Bokststav  | Titel 1 | Titel 2 | Titel 3 | 
+**Fetstil** betyder färdiginspelat avsnitt.
+
+| Bokstav  | Titel 1 | Titel 2 | Titel 3 | 
 | ---------- | ------- | ------- | ------- | 
 | A  | Ahmed  | Ayer | |
 | B  | [Bacon](shownotes/bacon.md)  | Bergson | Bachelard |
@@ -12,7 +14,7 @@ Källmaterial till VetenskapsteoriABC.
 | E  |  |  |  | 
 | F  | Frege | Feyerabend |  |
 | G  | Gadamer |  |  |
-| H  | [Hume](shownotes/hume.md) | Heidegger | Haraway |
+| H  | **[Hume](shownotes/hume.md)** | Heidegger | Haraway |
 | I  |  |  |  |
 | J  |  |  |  |
 | K  | Kuhn | Koyré  |  |
