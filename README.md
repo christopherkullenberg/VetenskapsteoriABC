@@ -17,7 +17,7 @@ Källmaterial till VetenskapsteoriABC.
 | H  | **[Hume](shownotes/hume.md)** | Heidegger | Haraway |
 | I  |  |  |  |
 | J  |  |  |  |
-| K  | Kuhn | Koyré  |  |
+| K  | Kuhn | Koyré  | [Kant](shownotes/kant.md) |
 | L  | Lakatos |  |  |
 | M  | Mannheim | Merton  |  |
 | N  | Neurath |  |  |
