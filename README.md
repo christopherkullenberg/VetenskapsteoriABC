@@ -17,7 +17,7 @@ Källmaterial till VetenskapsteoriABC.
 | H  | **[Hume](shownotes/hume.md)** | Heidegger | Haraway | |
 | I  |  |  |  | |
 | J  |  |  |  | |
-| K  | Kuhn | Koyré  | [Kant](shownotes/kant.md) | |
+| K  | Kuhn | Koyré  | **[Kant](shownotes/kant.md)** | |
 | L  | Lakatos |  |  | |
 | M  | Mannheim | Merton  |  | |
 | N  | Neurath |  |  | |
@@ -29,7 +29,7 @@ Källmaterial till VetenskapsteoriABC.
 | T  |  |  |  | |
 | U  |  |  |  | |
 | V  |  |  |  | |
-| W  | [Wienkretsen](shownotes/wienkretsen.md) |Windelband | Whewell | Wittgenstein |
+| W  | **[Wienkretsen](shownotes/wienkretsen.md)** |Windelband | Whewell | Wittgenstein |
 | X  |  |  |  | |
 | Y  |  |  |  | |
 | Z  | Zilsel |  |  | |
