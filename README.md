@@ -1,6 +1,18 @@
 # VetenskapsteoriABC
 Källmaterial till VetenskapsteoriABC.
 
+## Kronologisk lista
+
+### S01 
+
+1. H - Hume
+2. K - Kant 
+3. W - Wienkretsen [Spotify](https://open.spotify.com/episode/0Wi7MsJ1zHRG5FGUNnkBex?si=tyOs2TEMRyOWLhGsRgW6Wg) [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-03-wienkretsen)
+4. TBA
+5. TBA
+
+
+
 ## Alfabetisk lista 
 
 **Fetstil** betyder färdiginspelat avsnitt.
