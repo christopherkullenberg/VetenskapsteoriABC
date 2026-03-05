@@ -11,7 +11,7 @@ Avsnitten är tillgängliga på följande plattformar
 
 ## Kronologisk lista
 
-[Youtube]()|[GUplay]()|[Archive.org]()|[Spotify]()
+[Youtube]() | [GUplay]() | [Archive.org]() | [Spotify]()
 
 
 ### S01 (2025)
@@ -22,7 +22,7 @@ Avsnitten är tillgängliga på följande plattformar
 5. B - Bachelard och den nya vetenskapen
 6. Z - Zilsel och Vetenskapens sociologiska rötter 
 7. F - Fleck och Uppkomsten och utvecklingen av ett vetenskapligt faktum
-8. D - Descartes och Avhandling om metoden [Youtube](https://youtu.be/yAn9j_rWEhk?si=dK9qyBgJgE0Y15be)|[GUplay](https://play.gu.se/media/Rene+Descartes+och+Avhandling+om+metoden/0_pfzuuo51)|[Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-08-descartes)|[Spotify](https://open.spotify.com/episode/5GcrPuZ7nQibYDR4gcF2Rv?si=iJRgayfbS1--de1xuqVaAw)
+8. D - Descartes och Avhandling om metoden [Youtube](https://youtu.be/yAn9j_rWEhk?si=dK9qyBgJgE0Y15be) | [GUplay](https://play.gu.se/media/Rene+Descartes+och+Avhandling+om+metoden/0_pfzuuo51) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-08-descartes) | [Spotify](https://open.spotify.com/episode/5GcrPuZ7nQibYDR4gcF2Rv?si=iJRgayfbS1--de1xuqVaAw)
 9. J - James och Pragmatismen
 10. G - Gadamer och den hermeneutiska cirkeln
 11. D - Dilthey och de tolkande humanvetenskaperna
