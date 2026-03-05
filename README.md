@@ -4,9 +4,9 @@ Källmaterial till VetenskapsteoriABC.
 Avsnitten är tillgängliga på följande plattformar
 
 * [Spotify](https://open.spotify.com/show/2WWjVYWmCBWPcuzL23x1zc?si=5f6e095bdae54d9f)
-* Youtube
-* Archive.org
-* GUplay 
+* [Youtube](https://www.youtube.com/playlist?list=PLTxlj1_0unCg-HHxlCrLM6WSgdyMu_tyI)
+* [Archive.org](https://archive.org/details/@intensifier/lists/1/vetenskapsteoriabc)
+* GUplay (spellistor ej publika, sen enskilda länkar)
 
 
 ## Kronologisk lista
@@ -21,7 +21,7 @@ Avsnitten är tillgängliga på följande plattformar
 4. H - Heidegger och den moderna forskningen [Youtube](https://youtu.be/I5yzZlbM97Q) | [GUplay](https://play.gu.se/media/Heidegger+och+Die+Zeit+des+Weltbildes/0_vgxni26b) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-04heidegger) | [Spotify](https://creators.spotify.com/pod/show/spaldingsgatan9/episodes/H---Heidegger-och-den-moderna-forskningen-e341rk6)
 5. B - Bachelard och den nya vetenskapen [Youtube](https://youtu.be/C0akjv2G5ks) | [GUplay](https://play.gu.se/media/Gaston+Bachelard+och+The+new+Scientific+Spirit/0_tnc4rbf1) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-05-bachelard) | [Spotify](https://open.spotify.com/episode/4ulcC0UjQgbtCRDCILYYbV?si=0iJ19-SvQQaI-TZH9BXFhQ%C2%A0)
 6. Z - Zilsel och Vetenskapens sociologiska rötter [Youtube](https://youtu.be/Nj-zPinbDrA) | [GUplay](https://play.gu.se/media/Zilsel+och+vetenskapernas+sociologiska+r%C3%B6tter/0_11y7u79o) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-06-zilsel) | [Spotify](https://open.spotify.com/episode/0yVLhlPJkBquTctlbncNho?si=dOzWin8fTu6mSDAnt-9qhA)
-7. F - Fleck och Uppkomsten och utvecklingen av ett vetenskapligt faktum [Youtube](https://youtu.be/OthhY9Akhqs) | [GUplay](https://play.gu.se/media/Ludwik+Fleck+och+Uppkomsten+och+utvecklingen+av+ett+vetenskapligt+faktum/0_2io3fivf) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-07-fleck) | [Spotify](https://open.spotify.com/episode/79C6nHIJ0AlDz3luILvOvy?si=MFstlEqSRA-O1c23So0Slg)
+7. F - Fleck och Uppkomsten av ett vetenskapligt faktum [Youtube](https://youtu.be/OthhY9Akhqs) | [GUplay](https://play.gu.se/media/Ludwik+Fleck+och+Uppkomsten+och+utvecklingen+av+ett+vetenskapligt+faktum/0_2io3fivf) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-07-fleck) | [Spotify](https://open.spotify.com/episode/79C6nHIJ0AlDz3luILvOvy?si=MFstlEqSRA-O1c23So0Slg)
 8. D - Descartes och Avhandling om metoden [Youtube](https://youtu.be/yAn9j_rWEhk?si=dK9qyBgJgE0Y15be) | [GUplay](https://play.gu.se/media/Rene+Descartes+och+Avhandling+om+metoden/0_pfzuuo51) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-08-descartes) | [Spotify](https://open.spotify.com/episode/5GcrPuZ7nQibhttps://open.spotify.com/episode/2j82FxgoUis7R8vZlNQ91v?si=mJu_rxOrSjWsCAA_UkYQyAYDR4gcF2Rv?si=iJRgayfbS1--de1xuqVaAw)
 9. J - James och Pragmatismen [Youtube](https://youtu.be/MICWXa27VFw) | [GUplay](https://play.gu.se/media/William+James+%22Pragmatism%27s+conception+of+truth%22/0_gfbtxipt) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-09-james) | [Spotify](https://open.spotify.com/episode/6wCPcqpZY7WOhp4dygzhtm?si=Yq86mN07QQWmZANNnsZPKA)
 10. G - Gadamer och den hermeneutiska cirkeln [Youtube](https://youtu.be/ekvj0nS9LzU) | [GUplay](https://play.gu.se/media/Gadamer+och+den+hermeneutiska+cirkeln/0_8pq4jbtz) | [Archive.org](https://archive.org/details/vetenskapsteori-abcs-01-e-10-gadamer) | [Spotify](https://open.spotify.com/episode/6RrHx5rqyBgQ1KVYCQB6dF?si=wG6qyJlPRDKJaRb0Q0_ZDw)
