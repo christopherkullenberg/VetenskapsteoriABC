@@ -15,13 +15,13 @@
 <!-- Kort break -->
 
 ## 1. Kants vetenskapsteori
- Vad är då Kants bidrag till vetenskapsteorin? För att ta reda på det transporterar vi  oss  tillba ka till Königsberg och 1780-talet då Kants "Kritik av det rena förnuftet" publicerades, i en första utgåva 1781 och en andra utgåva 1787. 
+ Vad är då Kants bidrag till vetenskapsteorin? För att ta reda på det transporterar vi  oss  tillbaka till Königsberg och 1780-talet då Kants "Kritik av det rena förnuftet" publicerades, i en första utgåva 1781 och en andra utgåva 1787. 
 
-Detta verk är utant tvekan ett av de viktigaste vetenskapsteoretiska arbetena i den västerländska filosofin av tre anledningar:
+Detta verk är utan tvekan ett av de viktigaste vetenskapsteoretiska arbetena i den västerländska filosofin av tre anledningar:
 
 För det första genomför den, som titeln avslöjar, en "kritik" av all tidigare filosofi, från den grekiska kunskapsteorin fram till de två dominerande tankeströmningarna empirism och rationalism. Man kan säga att Kant på grundligast möjliga sätt går igenom, analyserar och demonstrerar gränserna för allt mänskligt tänkande fram till hans samtid. Och i och med detta kommer Kant att definiera begreppet "kritik" inom som ett filosofiskt begrepp som innebär utforskande av gränser. Vilket inte ska sammanblandas med den vardagliga användningen när "kritisk" betyder ungefär att man "är emot något". Kritik av det rena förnuftet är alltså en undersökning, snarare än ett program eller en metod. 
 
-För det andra är *Kritik av det rena förnuftet*, tillsammans med flera andra arbeten av Kant, ett försök att skapa en sömlös koppling mellan den rådande naturvetenskapen och filofin så att de kan ha samma vetenskapsteoretiska utgångspunkter och därmed kunna korsbefrukta varandra. Kant, som både bedrev naturvetenskaplig forskning och undervisade i matematik och geometri, ville skapa en objektiv vetenskapsteori för Newtonsk fysik och Euklidisk geometri, en filosofi som stod sida vid sida med naturvetenskaperna vid forskningsfronten. Huruvida detta lyckas eller inte kommer sedan att bli en vetenskapsteoretisk debatt som inte har avtagit ens idag, snart 250 år senare.
+För det andra är *Kritik av det rena förnuftet*, tillsammans med flera andra arbeten av Kant, ett försök att skapa en sömlös koppling mellan den rådande naturvetenskapen och filosofin så att de kan ha samma vetenskapsteoretiska utgångspunkter och därmed kunna korsbefrukta varandra. Kant, som både bedrev naturvetenskaplig forskning och undervisade i matematik och geometri, ville skapa en objektiv vetenskapsteori för Newtonsk fysik och Euklidisk geometri, en filosofi som stod sida vid sida med naturvetenskaperna vid forskningsfronten. Huruvida detta lyckas eller inte kommer sedan att bli en vetenskapsteoretisk debatt som inte har avtagit ens idag, snart 250 år senare.
 
 För det tredje kan man säga att Kants Kritik av det rena förnuftet konsoliderar och definierar stora delar av den begreppsapparat som vi idag använder oss av som kunskapsteoretiska standardverktyg. När vi talar om kunskap a priori eller a posteriori, om analytiska och syntetiska omdömen, åskådningar, tinget i sig, och så vidare så faller vi tillbaka på hur Kant fixerade dessa begrepp under sjuttonhundratalet sista decennier. 
 
