@@ -46,19 +46,19 @@ Fetstil betyder publicerat avsnitt.
 | Bokstav  | Titel 1 | Titel 2 | Titel 3 |  Titel 4 |
 | ---------- | ------- | ------- | ------- | ------- |
 | A  | Ahmed  | Ayer | | |
-| B  | **[Bacon](shownotes/bacon.md)**  | Bergson | **Bachelard** | |
+| B  | **Bacon**  | Bergson | **Bachelard** | |
 | C  | **Carnap** | Cassirer | | |
-| D  | **Descartes** | **Dilthey**  |  | |
+| D  | **Descartes** | **Dilthey**  | Duhem | |
 | E  |  |  |  |  |
 | F  | Frege | Feyerabend | **Fleck**  | |
 | G  | **Gadamer** |  |  | |
-| H  | **[Hume](shownotes/hume.md)** | **Heidegger** | Haraway | |
+| H  | **Hume** | **Heidegger** | Haraway | |
 | I  |  |  |  | |
 | J  | **James** |  |  | |
-| K  | **Kuhn** | Koyré  | **[Kant](shownotes/kant.md)** | |
+| K  | **Kuhn** | Koyré  | **Kant** | |
 | L  | Lakatos |  |  | |
 | M  | Mannheim | Merton  |  | |
-| N  | **Neurath** |  |  | |
+| N  | **Neurath** | Newton |  | |
 | O  | **Popper** |  |  | |
 | P  |  |  |  | |
 | Q  | **Quine** |  |  | |
@@ -67,7 +67,7 @@ Fetstil betyder publicerat avsnitt.
 | T  |  |  |  | |
 | U  |  |  |  | |
 | V  |  |  |  | |
-| W  | **[Wienkretsen](shownotes/wienkretsen.md)** |Windelband | Whewell | Wittgenstein |
+| W  | **Wienkretsen** | Windelband | Whewell | Wittgenstein |
 | X  |  |  |  | |
 | Y  |  |  |  | |
 | Z  | **Zilsel** |  |  | |
